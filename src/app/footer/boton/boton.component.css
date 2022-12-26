@@ -1,0 +1,10 @@
+ 
+ h1,p{
+    text-align: center;
+    justify-content: center;
+    margin-bottom: 0.1rem;
+ }
+ .cuadros{
+    margin-left: 120px;
+    padding: 10px;
+ }

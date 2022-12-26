@@ -1,0 +1,13 @@
+
+h1,p, h5{
+    text-align: center;
+    justify-content: center;
+    
+ }
+ .cuadros{
+    justify-content: center;
+    width: 900px;
+    margin-left: 500px;
+    padding: 30px;
+    padding-top: 50px;
+ }
